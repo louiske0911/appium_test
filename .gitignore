@@ -1,0 +1,15 @@
+.idea
+venv/
+__pycache__/
+.DS_Store
+log.html
+output.xml
+report.html
+*selenium-screenshot
+path
+/.project
+/.history
+/.settings/
+/.pydevproject
+/node_modules
+package-lock.json
