@@ -1,0 +1,15 @@
+# Test Enviornment
+TEST_TIMEOUT: 300
+
+# Appium Information
+APPIUM_SERVER: http://localhost:4723/wd/hub
+AUTOMATION_NAME: XCUITest
+
+# Device Information
+BROWSER_NAME: Safari
+DEVICE_NAME: iPhone 11
+PLATFORM_NAME: IOS
+PLATFORM_VERSION: "13.5"
+
+# Test Data
+TWITCH_URL:  https://m.twitch.tv/

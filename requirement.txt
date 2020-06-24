@@ -1,0 +1,2 @@
+robotframework==3.2a1
+robotframework-appiumlibrary==1.5.0.6
