@@ -1,0 +1,15 @@
+.idea
+venv/
+__pycache__/
+.DS_Store
+log.html
+output.xml
+report.html
+appium-screenshot*
+path
+/.project
+/.history
+/.settings/
+/.pydevproject
+/node_modules
+package-lock.json
